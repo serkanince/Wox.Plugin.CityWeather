@@ -1,0 +1,12 @@
+﻿{
+  "ID": "5010761F1CB24C75A0B92BD4670C5D22",
+  "ActionKeyword": "weather",
+  "Name": "City Weather",
+  "Description": "Get your city weather",
+  "Author": "serkanince",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/serkanince",
+  "IcoPath": "Images\\app.png",
+  "ExecuteFileName": "Wox.Plugin.CityWeather.dll"
+}
